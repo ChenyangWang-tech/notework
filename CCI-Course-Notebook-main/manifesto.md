@@ -1,0 +1,12 @@
+THE CRITICAL CODING MANIFESTO
+0. The Critical coder considers coding to be the most transformative language of our time, shaping the way we move, communicate and think. It is the work of the Critical coder to study and exploit this language, exposing its influence.
+1. The Critical coder considers any technology depended upon to be both a challenge and a threat. The greater the dependence on a technology the greater the need to study and expose its inner workings, regardless of ownership or legal provision.
+2. The Critical coder raises awareness that with each technological advance our techno-political literacy is challenged. 
+3. The Critical coder deconstructs and incites suspicion of rich user experiences.
+4. The Critical coder looks beyond the 'awe of implementation' to determine methods of influence and their specific effects. 
+5. The Critical coder recognises that each work of coding coders its user, proportional to that user's dependency upon it. 
+6. The Critical coder expands 'machine' to describe interrelationships encompassing devices, bodies, agents, forces and networks. 
+7. The Critical coder observes the space between the production and consumption of technology. Acting rapidly to changes in this space, the Critical coder serves to expose moments of imbalance and deception.
+8. The Critical coder looks to the history of art, architecture, activism, philosophy and invention and finds exemplary works of Critical coding. Strategies, ideas and agendas from these disciplines will be adopted, re-purposed and deployed. 
+9. The Critical coder notes that written code expands into social and psychological realms, regulating behaviour between people and the machines they interact with. By understanding this, the Critical coder seeks to reconstruct user-constraints and social action through means of digital excavation.
+10. The Critical coder considers the exploit to be the most desirable form of exposure.
